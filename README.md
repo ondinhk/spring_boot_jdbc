@@ -1,5 +1,3 @@
-# spring boot jdbc
-
 ## Setup mysql using docker
 ``` bash
 docker run -it --name mysql-container \
